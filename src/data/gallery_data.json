@@ -473,25 +473,7 @@
       "swaps": [],
       "token_info": {
         "name": "Infinity Drought",
-        "description": "Infinity Drought
-
-As climate change takes us into a new era, we will experience droughts and flooding like we've never witnessed before, bringing visions of both extremes: a desert wasteland and a world covered in water.
-
----- lyrics by Adam Eivy ---
-Taking a train to infinity
-Gazing out over the sea
-Come along, you can ride for free
-We can have eternity
-
-And we sail away through the day
-Dream of what the world will be
-Endless sea
-
-And we sail away
-Far away...
-----
-
-lovely A# F C F C# F F# F synth riff from one of the best cartoon series of all time: Infinity Train, via the Grid Car theme.",
+        "description": "As climate change takes us into a new era, we will experience droughts and flooding like we've never witnessed before, bringing visions of both extremes: a desert wasteland and a world covered in water.",
         "tags": [
           "blender",
           "animated",
@@ -558,11 +540,7 @@ lovely A# F C F C# F F# F synth riff from one of the best cartoon series of all 
       "token_info": {
         "name": "Famous Blender Donut Tutorial: 3rd Time's the Charm",
         "description": "I decided to get into 3D modeling so I went through the famous Blender donut tutorial by Blender Guru (https://www.youtube.com/watch?v=TPrnSACiTJ4). It took a few tries but I finally got it right.",
-        "tags": [
-          "blender",
-          "animated",
-          "donut"
-        ],
+        "tags": ["blender", "animated", "donut"],
         "symbol": "OBJKT",
         "artifactUri": "ipfs://QmQPtpgfAovMhWxSNwUsT56Ag1Vh5GNZMkJ9vyExPg6A65",
         "creators": ["tz1c2e1WMKKtf6oBZcZK3YFxrXgVbb2ggRr9"],
