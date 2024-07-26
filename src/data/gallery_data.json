@@ -41,9 +41,7 @@
         "symbol": "OBJKT",
         "artifactUri": "ipfs://QmPsGx4CGnuFmNq5jwroSxFC4q7sCHkoRfaWM58kqcWV3Q",
         "displayUri": "",
-        "creators": [
-          "tz1c2e1WMKKtf6oBZcZK3YFxrXgVbb2ggRr9"
-        ],
+        "creators": ["tz1c2e1WMKKtf6oBZcZK3YFxrXgVbb2ggRr9"],
         "formats": [
           {
             "uri": "ipfs://QmPsGx4CGnuFmNq5jwroSxFC4q7sCHkoRfaWM58kqcWV3Q",
@@ -93,9 +91,7 @@
         "symbol": "OBJKT",
         "artifactUri": "ipfs://QmZvM3D5Q2jgtcj1tuXCgQBUJNFb6t5orytoJruVE3NPVF",
         "displayUri": "",
-        "creators": [
-          "tz1c2e1WMKKtf6oBZcZK3YFxrXgVbb2ggRr9"
-        ],
+        "creators": ["tz1c2e1WMKKtf6oBZcZK3YFxrXgVbb2ggRr9"],
         "formats": [
           {
             "uri": "ipfs://QmZvM3D5Q2jgtcj1tuXCgQBUJNFb6t5orytoJruVE3NPVF",
@@ -156,9 +152,7 @@
         "symbol": "OBJKT",
         "artifactUri": "ipfs://QmbPtsmrSU7gcAw5BAM7K6652KFzL5sv8gi6Qfn5LGhpwg",
         "displayUri": "",
-        "creators": [
-          "tz1c2e1WMKKtf6oBZcZK3YFxrXgVbb2ggRr9"
-        ],
+        "creators": ["tz1c2e1WMKKtf6oBZcZK3YFxrXgVbb2ggRr9"],
         "formats": [
           {
             "uri": "ipfs://QmbPtsmrSU7gcAw5BAM7K6652KFzL5sv8gi6Qfn5LGhpwg",
@@ -212,9 +206,7 @@
         "symbol": "OBJKT",
         "artifactUri": "ipfs://QmaLU6vy7VLP9DmmGNVxJUtLNVzHU2RQf8kpfYVziaMF79",
         "displayUri": "",
-        "creators": [
-          "tz1c2e1WMKKtf6oBZcZK3YFxrXgVbb2ggRr9"
-        ],
+        "creators": ["tz1c2e1WMKKtf6oBZcZK3YFxrXgVbb2ggRr9"],
         "formats": [
           {
             "uri": "ipfs://QmaLU6vy7VLP9DmmGNVxJUtLNVzHU2RQf8kpfYVziaMF79",
@@ -270,9 +262,7 @@
         "symbol": "OBJKT",
         "artifactUri": "ipfs://QmYwLvpdm2UM9woop8KcsbYfVuXu2TA9EvYfD2w4nExzxp",
         "displayUri": "",
-        "creators": [
-          "tz1c2e1WMKKtf6oBZcZK3YFxrXgVbb2ggRr9"
-        ],
+        "creators": ["tz1c2e1WMKKtf6oBZcZK3YFxrXgVbb2ggRr9"],
         "formats": [
           {
             "uri": "ipfs://QmYwLvpdm2UM9woop8KcsbYfVuXu2TA9EvYfD2w4nExzxp",
@@ -326,9 +316,7 @@
         "symbol": "OBJKT",
         "artifactUri": "ipfs://QmXfN65PM2ACAFesop3GM7h1PCqk3k9pTB3N1eZMYXyN4D",
         "displayUri": "",
-        "creators": [
-          "tz1c2e1WMKKtf6oBZcZK3YFxrXgVbb2ggRr9"
-        ],
+        "creators": ["tz1c2e1WMKKtf6oBZcZK3YFxrXgVbb2ggRr9"],
         "formats": [
           {
             "uri": "ipfs://QmXfN65PM2ACAFesop3GM7h1PCqk3k9pTB3N1eZMYXyN4D",
@@ -386,9 +374,7 @@
         "symbol": "OBJKT",
         "artifactUri": "ipfs://QmXRa7UNkseasBtHaeJKgXKrqq1DK5d7ZdG4upTz2PD7GB",
         "displayUri": "",
-        "creators": [
-          "tz1c2e1WMKKtf6oBZcZK3YFxrXgVbb2ggRr9"
-        ],
+        "creators": ["tz1c2e1WMKKtf6oBZcZK3YFxrXgVbb2ggRr9"],
         "formats": [
           {
             "uri": "ipfs://QmXRa7UNkseasBtHaeJKgXKrqq1DK5d7ZdG4upTz2PD7GB",
@@ -464,9 +450,7 @@
         "artifactUri": "ipfs://QmZzhog8Aj4keGAJ6s2AMokxnViQRStpEtfQCkA7HnPikM",
         "displayUri": "",
         "thumbnailUri": "ipfs://QmNrhZHUaEqxhyLfqoq1mtHSipkWHeT31LNHb1QEbDHgnc",
-        "creators": [
-          "tz1c2e1WMKKtf6oBZcZK3YFxrXgVbb2ggRr9"
-        ],
+        "creators": ["tz1c2e1WMKKtf6oBZcZK3YFxrXgVbb2ggRr9"],
         "formats": [
           {
             "uri": "ipfs://QmZzhog8Aj4keGAJ6s2AMokxnViQRStpEtfQCkA7HnPikM",
@@ -478,6 +462,121 @@
         "shouldPreferSymbol": false
       },
       "hDAO_balance": 6997
+    }
+  ],
+  "3D": [
+    {
+      "objectId": "435109",
+      "tokenId": "435109",
+      "total_amount": 20,
+      "ipfsHash": "QmV64nmxmyjJLGadrm6G4wrsv7rcvjsasbsoJ1fmUsweQe",
+      "swaps": [],
+      "token_info": {
+        "name": "Infinity Drought",
+        "description": "Infinity Drought
+
+As climate change takes us into a new era, we will experience droughts and flooding like we've never witnessed before, bringing visions of both extremes: a desert wasteland and a world covered in water.
+
+---- lyrics by Adam Eivy ---
+Taking a train to infinity
+Gazing out over the sea
+Come along, you can ride for free
+We can have eternity
+
+And we sail away through the day
+Dream of what the world will be
+Endless sea
+
+And we sail away
+Far away...
+----
+
+lovely A# F C F C# F F# F synth riff from one of the best cartoon series of all time: Infinity Train, via the Grid Car theme.",
+        "tags": [
+          "blender",
+          "animated",
+          "music",
+          "desert",
+          "sunset",
+          "audio",
+          "perfectloop"
+        ],
+        "symbol": "OBJKT",
+        "artifactUri": "ipfs://QmV64nmxmyjJLGadrm6G4wrsv7rcvjsasbsoJ1fmUsweQe",
+        "creators": ["tz1c2e1WMKKtf6oBZcZK3YFxrXgVbb2ggRr9"],
+        "formats": [
+          {
+            "uri": "ipfs://QmV64nmxmyjJLGadrm6G4wrsv7rcvjsasbsoJ1fmUsweQe",
+            "mimeType": "video/mp4"
+          }
+        ],
+        "thumbnailUri": "https://assets.objkt.media/file/assets-003/KT1RJ6PbjHpwc3M5rw5s2Nbmefwbuwbdxton/435109/thumb288",
+        "decimals": 0,
+        "isBooleanAmount": false,
+        "shouldPreferSymbol": false
+      },
+      "hDAO_balance": 0
+    },
+    {
+      "objectId": "153141",
+      "tokenId": "153141",
+      "total_amount": 20,
+      "ipfsHash": "QmXTvT6WQd2c6mhzzLcxssVHzfrvKtj5eE5YPLA9GB4kbB",
+      "swaps": [],
+      "token_info": {
+        "name": "Synthwave Mountains",
+        "description": "Drifting Through Synthwave Mountains with a soft audio riff by Adam Eivy (@antic). Browsers don't play perfect loop mp4 with audio tracks well, but if you do `ffplay -loop 100 INSERT_IPFS_URL_HERE` you can meditate on this for a while.",
+        "tags": [
+          "blender",
+          "animated",
+          "music",
+          "synthwave",
+          "audio",
+          "perfectloop"
+        ],
+        "symbol": "OBJKT",
+        "artifactUri": "ipfs://QmXTvT6WQd2c6mhzzLcxssVHzfrvKtj5eE5YPLA9GB4kbB",
+        "creators": ["tz1c2e1WMKKtf6oBZcZK3YFxrXgVbb2ggRr9"],
+        "formats": [
+          {
+            "uri": "ipfs://QmXTvT6WQd2c6mhzzLcxssVHzfrvKtj5eE5YPLA9GB4kbB",
+            "mimeType": "video/mp4"
+          }
+        ],
+        "thumbnailUri": "https://assets.objkt.media/file/assets-003/KT1RJ6PbjHpwc3M5rw5s2Nbmefwbuwbdxton/153141/thumb288",
+        "decimals": 0,
+        "isBooleanAmount": false,
+        "shouldPreferSymbol": false
+      }
+    },
+    {
+      "objectId": "127692",
+      "tokenId": "127692",
+      "total_amount": 20,
+      "ipfsHash": "QmQPtpgfAovMhWxSNwUsT56Ag1Vh5GNZMkJ9vyExPg6A65",
+      "swaps": [],
+      "token_info": {
+        "name": "Famous Blender Donut Tutorial: 3rd Time's the Charm",
+        "description": "I decided to get into 3D modeling so I went through the famous Blender donut tutorial by Blender Guru (https://www.youtube.com/watch?v=TPrnSACiTJ4). It took a few tries but I finally got it right.",
+        "tags": [
+          "blender",
+          "animated",
+          "donut"
+        ],
+        "symbol": "OBJKT",
+        "artifactUri": "ipfs://QmQPtpgfAovMhWxSNwUsT56Ag1Vh5GNZMkJ9vyExPg6A65",
+        "creators": ["tz1c2e1WMKKtf6oBZcZK3YFxrXgVbb2ggRr9"],
+        "formats": [
+          {
+            "uri": "ipfs://QmQPtpgfAovMhWxSNwUsT56Ag1Vh5GNZMkJ9vyExPg6A65",
+            "mimeType": "video/mp4"
+          }
+        ],
+        "thumbnailUri": "https://assets.objkt.media/file/assets-003/KT1RJ6PbjHpwc3M5rw5s2Nbmefwbuwbdxton/127692/thumb288",
+        "decimals": 0,
+        "isBooleanAmount": false,
+        "shouldPreferSymbol": false
+      }
     }
   ],
   "paintings": [
@@ -548,9 +647,7 @@
         ],
         "symbol": "OBJKT",
         "artifactUri": "ipfs://QmcdBh76zHixZPCFkQ5aZPPmUV8DAg6MRNx5MLQnjbMNwB",
-        "creators": [
-          "tz1iyFi4WjSttoja7Vi1EJYMEKKSebQyMkF9"
-        ],
+        "creators": ["tz1iyFi4WjSttoja7Vi1EJYMEKKSebQyMkF9"],
         "formats": [
           {
             "uri": "ipfs://QmcdBh76zHixZPCFkQ5aZPPmUV8DAg6MRNx5MLQnjbMNwB",
@@ -579,9 +676,7 @@
         "tags": [],
         "symbol": "OBJKT",
         "artifactUri": "ipfs://QmYR3p2fi7itAqLD5fgwr79AjHUAx4cxykToaiVtReZgKB",
-        "creators": [
-          "tz1iyFi4WjSttoja7Vi1EJYMEKKSebQyMkF9"
-        ],
+        "creators": ["tz1iyFi4WjSttoja7Vi1EJYMEKKSebQyMkF9"],
         "formats": [
           {
             "uri": "ipfs://QmYR3p2fi7itAqLD5fgwr79AjHUAx4cxykToaiVtReZgKB",
@@ -626,9 +721,7 @@
         "tags": [],
         "symbol": "OBJKT",
         "artifactUri": "ipfs://QmNmvZrbYwmnVP4zvV8Cmx5Sp6yLqkrW2Du1SoNdqJCiwD",
-        "creators": [
-          "tz1iyFi4WjSttoja7Vi1EJYMEKKSebQyMkF9"
-        ],
+        "creators": ["tz1iyFi4WjSttoja7Vi1EJYMEKKSebQyMkF9"],
         "formats": [
           {
             "uri": "ipfs://QmNmvZrbYwmnVP4zvV8Cmx5Sp6yLqkrW2Du1SoNdqJCiwD",
@@ -658,9 +751,7 @@
         "tags": [],
         "symbol": "OBJKT",
         "artifactUri": "ipfs://QmQWzjAFaHjrSmzFaEiFZWbRoV9yUk8VnWy2P9dw9gUQwn",
-        "creators": [
-          "tz1iyFi4WjSttoja7Vi1EJYMEKKSebQyMkF9"
-        ],
+        "creators": ["tz1iyFi4WjSttoja7Vi1EJYMEKKSebQyMkF9"],
         "formats": [
           {
             "uri": "ipfs://QmQWzjAFaHjrSmzFaEiFZWbRoV9yUk8VnWy2P9dw9gUQwn",
@@ -690,9 +781,7 @@
         "tags": [],
         "symbol": "OBJKT",
         "artifactUri": "ipfs://QmSKieiNSo16ZTprFb7mbxjjh3f3DzfxcRo1TdwUWgQsn2",
-        "creators": [
-          "tz1iyFi4WjSttoja7Vi1EJYMEKKSebQyMkF9"
-        ],
+        "creators": ["tz1iyFi4WjSttoja7Vi1EJYMEKKSebQyMkF9"],
         "formats": [
           {
             "uri": "ipfs://QmSKieiNSo16ZTprFb7mbxjjh3f3DzfxcRo1TdwUWgQsn2",
@@ -722,9 +811,7 @@
         "tags": [],
         "symbol": "OBJKT",
         "artifactUri": "ipfs://QmSVwetqAYvZPdZHefEvpNiiKMweHDG5Qr7zmqv98x6fSd",
-        "creators": [
-          "tz1iyFi4WjSttoja7Vi1EJYMEKKSebQyMkF9"
-        ],
+        "creators": ["tz1iyFi4WjSttoja7Vi1EJYMEKKSebQyMkF9"],
         "formats": [
           {
             "uri": "ipfs://QmSVwetqAYvZPdZHefEvpNiiKMweHDG5Qr7zmqv98x6fSd",
@@ -753,9 +840,7 @@
         "tags": [],
         "symbol": "OBJKT",
         "artifactUri": "ipfs://QmQ1jUATgd6VyhNkzkDznZrrxqgUsCLsBCWuSv96xXed5j",
-        "creators": [
-          "tz1iyFi4WjSttoja7Vi1EJYMEKKSebQyMkF9"
-        ],
+        "creators": ["tz1iyFi4WjSttoja7Vi1EJYMEKKSebQyMkF9"],
         "formats": [
           {
             "uri": "ipfs://QmQ1jUATgd6VyhNkzkDznZrrxqgUsCLsBCWuSv96xXed5j",
@@ -792,9 +877,7 @@
         "tags": [],
         "symbol": "OBJKT",
         "artifactUri": "ipfs://QmW7bx6X4fyCvJySzC74kDM7uC2gZCQFL9zzZRgWkzhRtJ",
-        "creators": [
-          "tz1iyFi4WjSttoja7Vi1EJYMEKKSebQyMkF9"
-        ],
+        "creators": ["tz1iyFi4WjSttoja7Vi1EJYMEKKSebQyMkF9"],
         "formats": [
           {
             "uri": "ipfs://QmW7bx6X4fyCvJySzC74kDM7uC2gZCQFL9zzZRgWkzhRtJ",
@@ -831,9 +914,7 @@
         "tags": [],
         "symbol": "OBJKT",
         "artifactUri": "ipfs://QmTUBQkRdoDAmMWDofZwaPHMbVvTk81w6pbgMkJQ8vzXxQ",
-        "creators": [
-          "tz1iyFi4WjSttoja7Vi1EJYMEKKSebQyMkF9"
-        ],
+        "creators": ["tz1iyFi4WjSttoja7Vi1EJYMEKKSebQyMkF9"],
         "formats": [
           {
             "uri": "ipfs://QmTUBQkRdoDAmMWDofZwaPHMbVvTk81w6pbgMkJQ8vzXxQ",
@@ -869,9 +950,7 @@
         "tags": [],
         "symbol": "OBJKT",
         "artifactUri": "ipfs://QmVd6sYs9AYerZ2tD7VcuCx5v65G4ZPNF3AzKTLTcpJ8FB",
-        "creators": [
-          "tz1iyFi4WjSttoja7Vi1EJYMEKKSebQyMkF9"
-        ],
+        "creators": ["tz1iyFi4WjSttoja7Vi1EJYMEKKSebQyMkF9"],
         "formats": [
           {
             "uri": "ipfs://QmVd6sYs9AYerZ2tD7VcuCx5v65G4ZPNF3AzKTLTcpJ8FB",
@@ -900,9 +979,7 @@
         "tags": [],
         "symbol": "OBJKT",
         "artifactUri": "ipfs://QmfGQqC6uQirMMrshDEUkQv6QXwJkgkhoVn7TM24J2qPB7",
-        "creators": [
-          "tz1iyFi4WjSttoja7Vi1EJYMEKKSebQyMkF9"
-        ],
+        "creators": ["tz1iyFi4WjSttoja7Vi1EJYMEKKSebQyMkF9"],
         "formats": [
           {
             "uri": "ipfs://QmfGQqC6uQirMMrshDEUkQv6QXwJkgkhoVn7TM24J2qPB7",
@@ -931,9 +1008,7 @@
         "tags": [],
         "symbol": "OBJKT",
         "artifactUri": "ipfs://QmSyuEjm8YNE8jRJ8FgeQCT7THHaruFjMwepyGCHK2Vui5",
-        "creators": [
-          "tz1iyFi4WjSttoja7Vi1EJYMEKKSebQyMkF9"
-        ],
+        "creators": ["tz1iyFi4WjSttoja7Vi1EJYMEKKSebQyMkF9"],
         "formats": [
           {
             "uri": "ipfs://QmSyuEjm8YNE8jRJ8FgeQCT7THHaruFjMwepyGCHK2Vui5",
@@ -967,18 +1042,10 @@
       "token_info": {
         "name": "Fortress of Solitude",
         "description": "Original Painting by Adam Eivy (@antic); dimensions: 2000x2588; date: 2019-09-29",
-        "tags": [
-          "fortress",
-          "solitude",
-          "painting",
-          "procreate",
-          "@antic"
-        ],
+        "tags": ["fortress", "solitude", "painting", "procreate", "@antic"],
         "symbol": "OBJKT",
         "artifactUri": "ipfs://QmYPdwRHGmgreHuyfia1N36F7AQZTBRvQBURWtHC8dgwRL",
-        "creators": [
-          "tz1iyFi4WjSttoja7Vi1EJYMEKKSebQyMkF9"
-        ],
+        "creators": ["tz1iyFi4WjSttoja7Vi1EJYMEKKSebQyMkF9"],
         "formats": [
           {
             "uri": "ipfs://QmYPdwRHGmgreHuyfia1N36F7AQZTBRvQBURWtHC8dgwRL",
@@ -1007,9 +1074,7 @@
         "tags": [],
         "symbol": "OBJKT",
         "artifactUri": "ipfs://QmZUuANAqXW8MXA2Nqpxb8ursdZ8Nafp5XaitaTHk9gKiE",
-        "creators": [
-          "tz1iyFi4WjSttoja7Vi1EJYMEKKSebQyMkF9"
-        ],
+        "creators": ["tz1iyFi4WjSttoja7Vi1EJYMEKKSebQyMkF9"],
         "formats": [
           {
             "uri": "ipfs://QmZUuANAqXW8MXA2Nqpxb8ursdZ8Nafp5XaitaTHk9gKiE",
@@ -1065,20 +1130,11 @@
       "token_info": {
         "name": "All Hail the Glow Cloud",
         "description": "The mysterious glowing cloud that controls all of our thoughts and dreams. All hail the glow cloud; dimensions: 1536x2048; size: 2,451,068 bytes",
-        "tags": [
-          "glow",
-          "cloud",
-          "dreams",
-          "control",
-          "sentient",
-          "painting"
-        ],
+        "tags": ["glow", "cloud", "dreams", "control", "sentient", "painting"],
         "symbol": "OBJKT",
         "artifactUri": "ipfs://QmVR6wqsNJACX57KnJDT4LdAAmuUjTi7xAkt34VhjeWtrH",
         "displayUri": "",
-        "creators": [
-          "tz1iyFi4WjSttoja7Vi1EJYMEKKSebQyMkF9"
-        ],
+        "creators": ["tz1iyFi4WjSttoja7Vi1EJYMEKKSebQyMkF9"],
         "formats": [
           {
             "uri": "ipfs://QmVR6wqsNJACX57KnJDT4LdAAmuUjTi7xAkt34VhjeWtrH",
@@ -1172,9 +1228,7 @@
         "symbol": "OBJKT",
         "artifactUri": "ipfs://QmfGpCHBLVGfYSzJwKFXJdcS6H1tXN2mqgtkYaN8jvkhcN",
         "displayUri": "",
-        "creators": [
-          "tz1c2e1WMKKtf6oBZcZK3YFxrXgVbb2ggRr9"
-        ],
+        "creators": ["tz1c2e1WMKKtf6oBZcZK3YFxrXgVbb2ggRr9"],
         "formats": [
           {
             "uri": "ipfs://QmfGpCHBLVGfYSzJwKFXJdcS6H1tXN2mqgtkYaN8jvkhcN",
@@ -1245,9 +1299,7 @@
         "symbol": "OBJKT",
         "artifactUri": "ipfs://QmZPa9cALr89kvY46nPXex8FiewbYauf587EJKM6wZwVLq",
         "displayUri": "",
-        "creators": [
-          "tz1c2e1WMKKtf6oBZcZK3YFxrXgVbb2ggRr9"
-        ],
+        "creators": ["tz1c2e1WMKKtf6oBZcZK3YFxrXgVbb2ggRr9"],
         "formats": [
           {
             "uri": "ipfs://QmZPa9cALr89kvY46nPXex8FiewbYauf587EJKM6wZwVLq",
@@ -1315,9 +1367,7 @@
         "symbol": "OBJKT",
         "artifactUri": "ipfs://QmeSSDcPU2e3Ky7CyNWUokafPnZWXw7wpbSrRR3XmFoJCk",
         "displayUri": "",
-        "creators": [
-          "tz1c2e1WMKKtf6oBZcZK3YFxrXgVbb2ggRr9"
-        ],
+        "creators": ["tz1c2e1WMKKtf6oBZcZK3YFxrXgVbb2ggRr9"],
         "formats": [
           {
             "uri": "ipfs://QmeSSDcPU2e3Ky7CyNWUokafPnZWXw7wpbSrRR3XmFoJCk",
@@ -1401,9 +1451,7 @@
         "symbol": "OBJKT",
         "artifactUri": "ipfs://QmYbBTQ9buQ8MSQqxSqDPf2qvvUKb74DFWcJdf4sya5Hvq",
         "displayUri": "",
-        "creators": [
-          "tz1c2e1WMKKtf6oBZcZK3YFxrXgVbb2ggRr9"
-        ],
+        "creators": ["tz1c2e1WMKKtf6oBZcZK3YFxrXgVbb2ggRr9"],
         "formats": [
           {
             "uri": "ipfs://QmYbBTQ9buQ8MSQqxSqDPf2qvvUKb74DFWcJdf4sya5Hvq",
@@ -1492,9 +1540,7 @@
         "symbol": "OBJKT",
         "artifactUri": "ipfs://QmTHUWCtkXn2Dy6VjwEYQSvKTnBC3uRcnKcJf44ZLBhWXV",
         "displayUri": "",
-        "creators": [
-          "tz1c2e1WMKKtf6oBZcZK3YFxrXgVbb2ggRr9"
-        ],
+        "creators": ["tz1c2e1WMKKtf6oBZcZK3YFxrXgVbb2ggRr9"],
         "formats": [
           {
             "uri": "ipfs://QmTHUWCtkXn2Dy6VjwEYQSvKTnBC3uRcnKcJf44ZLBhWXV",
@@ -1581,9 +1627,7 @@
         "symbol": "OBJKT",
         "artifactUri": "ipfs://QmZtTQ3CdBJT9YPzyyufvgwg1KectoKvAXkhee9iLsRzBD",
         "displayUri": "",
-        "creators": [
-          "tz1c2e1WMKKtf6oBZcZK3YFxrXgVbb2ggRr9"
-        ],
+        "creators": ["tz1c2e1WMKKtf6oBZcZK3YFxrXgVbb2ggRr9"],
         "formats": [
           {
             "uri": "ipfs://QmZtTQ3CdBJT9YPzyyufvgwg1KectoKvAXkhee9iLsRzBD",
@@ -1659,9 +1703,7 @@
         "symbol": "OBJKT",
         "artifactUri": "ipfs://QmcqYDLzLM1yL1Nzv7DYUGwmAEmBq3JhW63dde5x43Jaeg",
         "displayUri": "",
-        "creators": [
-          "tz1c2e1WMKKtf6oBZcZK3YFxrXgVbb2ggRr9"
-        ],
+        "creators": ["tz1c2e1WMKKtf6oBZcZK3YFxrXgVbb2ggRr9"],
         "formats": [
           {
             "uri": "ipfs://QmcqYDLzLM1yL1Nzv7DYUGwmAEmBq3JhW63dde5x43Jaeg",
@@ -1742,9 +1784,7 @@
         "symbol": "OBJKT",
         "artifactUri": "ipfs://QmVFmV9m9qXrmeegCuTH5ZMgj34opNLc7vKCUvRLcPwDzs",
         "displayUri": "",
-        "creators": [
-          "tz1c2e1WMKKtf6oBZcZK3YFxrXgVbb2ggRr9"
-        ],
+        "creators": ["tz1c2e1WMKKtf6oBZcZK3YFxrXgVbb2ggRr9"],
         "formats": [
           {
             "uri": "ipfs://QmVFmV9m9qXrmeegCuTH5ZMgj34opNLc7vKCUvRLcPwDzs",
@@ -1791,9 +1831,7 @@
         "tags": [],
         "symbol": "OBJKT",
         "artifactUri": "ipfs://QmNmvZrbYwmnVP4zvV8Cmx5Sp6yLqkrW2Du1SoNdqJCiwD",
-        "creators": [
-          "tz1iyFi4WjSttoja7Vi1EJYMEKKSebQyMkF9"
-        ],
+        "creators": ["tz1iyFi4WjSttoja7Vi1EJYMEKKSebQyMkF9"],
         "formats": [
           {
             "uri": "ipfs://QmNmvZrbYwmnVP4zvV8Cmx5Sp6yLqkrW2Du1SoNdqJCiwD",
@@ -1864,9 +1902,7 @@
         ],
         "symbol": "OBJKT",
         "artifactUri": "ipfs://Qmdb91yoZYk9iiKefBCjrvvF9aK5WD9DxGdSGZEGhmyLCL",
-        "creators": [
-          "tz1iyFi4WjSttoja7Vi1EJYMEKKSebQyMkF9"
-        ],
+        "creators": ["tz1iyFi4WjSttoja7Vi1EJYMEKKSebQyMkF9"],
         "formats": [
           {
             "uri": "ipfs://Qmdb91yoZYk9iiKefBCjrvvF9aK5WD9DxGdSGZEGhmyLCL",
@@ -1911,9 +1947,7 @@
         ],
         "symbol": "OBJKT",
         "artifactUri": "ipfs://QmTQbUQT5TxSSwqsz7JxAqnJHMDKXf3t7wYGihQqAdNfkd",
-        "creators": [
-          "tz1iyFi4WjSttoja7Vi1EJYMEKKSebQyMkF9"
-        ],
+        "creators": ["tz1iyFi4WjSttoja7Vi1EJYMEKKSebQyMkF9"],
         "formats": [
           {
             "uri": "ipfs://QmTQbUQT5TxSSwqsz7JxAqnJHMDKXf3t7wYGihQqAdNfkd",
@@ -1959,9 +1993,7 @@
         ],
         "symbol": "OBJKT",
         "artifactUri": "ipfs://QmReYNzf2q29Gtpb7gNYMMkzftsvVwN25FVcEDjg63mqQG",
-        "creators": [
-          "tz1iyFi4WjSttoja7Vi1EJYMEKKSebQyMkF9"
-        ],
+        "creators": ["tz1iyFi4WjSttoja7Vi1EJYMEKKSebQyMkF9"],
         "formats": [
           {
             "uri": "ipfs://QmReYNzf2q29Gtpb7gNYMMkzftsvVwN25FVcEDjg63mqQG",
@@ -2023,9 +2055,7 @@
         ],
         "symbol": "OBJKT",
         "artifactUri": "ipfs://QmQbT8LEgd6M47kqJ6H5VrUAo59J9zP7KDctDvxcd7TQPk",
-        "creators": [
-          "tz1iyFi4WjSttoja7Vi1EJYMEKKSebQyMkF9"
-        ],
+        "creators": ["tz1iyFi4WjSttoja7Vi1EJYMEKKSebQyMkF9"],
         "formats": [
           {
             "uri": "ipfs://QmQbT8LEgd6M47kqJ6H5VrUAo59J9zP7KDctDvxcd7TQPk",
@@ -2086,9 +2116,7 @@
         ],
         "symbol": "OBJKT",
         "artifactUri": "ipfs://QmaULj1Pfp1v5SnDQRSmsLcLqLyzXoQJMYxvjnheaKNE6B",
-        "creators": [
-          "tz1iyFi4WjSttoja7Vi1EJYMEKKSebQyMkF9"
-        ],
+        "creators": ["tz1iyFi4WjSttoja7Vi1EJYMEKKSebQyMkF9"],
         "formats": [
           {
             "uri": "ipfs://QmaULj1Pfp1v5SnDQRSmsLcLqLyzXoQJMYxvjnheaKNE6B",
@@ -2159,9 +2187,7 @@
         ],
         "symbol": "OBJKT",
         "artifactUri": "ipfs://QmZtdpf4BiL73SmiMt7ZvmdguFeCpMxudsxJqoPHj3s9TU",
-        "creators": [
-          "tz1iyFi4WjSttoja7Vi1EJYMEKKSebQyMkF9"
-        ],
+        "creators": ["tz1iyFi4WjSttoja7Vi1EJYMEKKSebQyMkF9"],
         "formats": [
           {
             "uri": "ipfs://QmZtdpf4BiL73SmiMt7ZvmdguFeCpMxudsxJqoPHj3s9TU",
@@ -2219,9 +2245,7 @@
         ],
         "symbol": "OBJKT",
         "artifactUri": "ipfs://QmP2FemL6Me1HHpsFSUKxxUC2tXc29CewWU5M8KbuDxYfR",
-        "creators": [
-          "tz1iyFi4WjSttoja7Vi1EJYMEKKSebQyMkF9"
-        ],
+        "creators": ["tz1iyFi4WjSttoja7Vi1EJYMEKKSebQyMkF9"],
         "formats": [
           {
             "uri": "ipfs://QmP2FemL6Me1HHpsFSUKxxUC2tXc29CewWU5M8KbuDxYfR",
@@ -2250,9 +2274,7 @@
         "tags": [],
         "symbol": "OBJKT",
         "artifactUri": "ipfs://QmchBaCeNGFBDjaeh426njoytBe7uQTTbkrQGLYrbmhHad",
-        "creators": [
-          "tz1iyFi4WjSttoja7Vi1EJYMEKKSebQyMkF9"
-        ],
+        "creators": ["tz1iyFi4WjSttoja7Vi1EJYMEKKSebQyMkF9"],
         "formats": [
           {
             "uri": "ipfs://QmchBaCeNGFBDjaeh426njoytBe7uQTTbkrQGLYrbmhHad",
@@ -2278,17 +2300,10 @@
       "token_info": {
         "name": "Making of Daily Drone: Greener Grass",
         "description": "Procreate process video of https://www.hicetnunc.xyz/objkt/996 painting by Adam Eivy (@antic); 2019-09-06",
-        "tags": [
-          "drone",
-          "painting",
-          "processvideo",
-          "speedpainting"
-        ],
+        "tags": ["drone", "painting", "processvideo", "speedpainting"],
         "symbol": "OBJKT",
         "artifactUri": "ipfs://QmZAhLbPiur9ArEq1tAFGSLGnSCVqCVQzxjWadbuTxMVsQ",
-        "creators": [
-          "tz1iyFi4WjSttoja7Vi1EJYMEKKSebQyMkF9"
-        ],
+        "creators": ["tz1iyFi4WjSttoja7Vi1EJYMEKKSebQyMkF9"],
         "formats": [
           {
             "uri": "ipfs://QmZAhLbPiur9ArEq1tAFGSLGnSCVqCVQzxjWadbuTxMVsQ",
@@ -2326,9 +2341,7 @@
         ],
         "symbol": "OBJKT",
         "artifactUri": "ipfs://Qma7eAZkcQ61qqoVktZQLnAqiMULtAXYRU8C1mzMegqMxJ",
-        "creators": [
-          "tz1iyFi4WjSttoja7Vi1EJYMEKKSebQyMkF9"
-        ],
+        "creators": ["tz1iyFi4WjSttoja7Vi1EJYMEKKSebQyMkF9"],
         "formats": [
           {
             "uri": "ipfs://Qma7eAZkcQ61qqoVktZQLnAqiMULtAXYRU8C1mzMegqMxJ",
@@ -2412,9 +2425,7 @@
         ],
         "symbol": "OBJKT",
         "artifactUri": "ipfs://Qma3CvFFhL1Y8QAtbmtqHGKABtaU2ZHvBWVqFPYYMqBdrR",
-        "creators": [
-          "tz1c2e1WMKKtf6oBZcZK3YFxrXgVbb2ggRr9"
-        ],
+        "creators": ["tz1c2e1WMKKtf6oBZcZK3YFxrXgVbb2ggRr9"],
         "formats": [
           {
             "uri": "ipfs://Qma3CvFFhL1Y8QAtbmtqHGKABtaU2ZHvBWVqFPYYMqBdrR",
@@ -2468,9 +2479,7 @@
         ],
         "symbol": "OBJKT",
         "artifactUri": "ipfs://QmRkuoY866xFgELwxiGpnc5wyNYs1ZTt9hDoG2Ed8TX2b4",
-        "creators": [
-          "tz1iyFi4WjSttoja7Vi1EJYMEKKSebQyMkF9"
-        ],
+        "creators": ["tz1iyFi4WjSttoja7Vi1EJYMEKKSebQyMkF9"],
         "formats": [
           {
             "uri": "ipfs://QmRkuoY866xFgELwxiGpnc5wyNYs1ZTt9hDoG2Ed8TX2b4",
@@ -2526,9 +2535,7 @@
         ],
         "symbol": "OBJKT",
         "artifactUri": "ipfs://QmSULckhgC3cgx6fBtX9dJQHAEvxsUzvDyjvGouk1DgTKm",
-        "creators": [
-          "tz1iyFi4WjSttoja7Vi1EJYMEKKSebQyMkF9"
-        ],
+        "creators": ["tz1iyFi4WjSttoja7Vi1EJYMEKKSebQyMkF9"],
         "formats": [
           {
             "uri": "ipfs://QmSULckhgC3cgx6fBtX9dJQHAEvxsUzvDyjvGouk1DgTKm",
@@ -2648,9 +2655,7 @@
         "symbol": "OBJKT",
         "artifactUri": "ipfs://QmYNccRSDnsJFJMJEpvWoLgNsrmvcnJfFy3uyuXkVoyFEs",
         "displayUri": "",
-        "creators": [
-          "tz1c2e1WMKKtf6oBZcZK3YFxrXgVbb2ggRr9"
-        ],
+        "creators": ["tz1c2e1WMKKtf6oBZcZK3YFxrXgVbb2ggRr9"],
         "formats": [
           {
             "uri": "ipfs://QmYNccRSDnsJFJMJEpvWoLgNsrmvcnJfFy3uyuXkVoyFEs",
@@ -2704,9 +2709,7 @@
         "artifactUri": "ipfs://QmX9yfKandpP8HUCmTbJjrtSwijQ44pW15WLdazMeGEHDs",
         "displayUri": "",
         "thumbnailUri": "ipfs://QmNrhZHUaEqxhyLfqoq1mtHSipkWHeT31LNHb1QEbDHgnc",
-        "creators": [
-          "tz1c2e1WMKKtf6oBZcZK3YFxrXgVbb2ggRr9"
-        ],
+        "creators": ["tz1c2e1WMKKtf6oBZcZK3YFxrXgVbb2ggRr9"],
         "formats": [
           {
             "uri": "ipfs://QmX9yfKandpP8HUCmTbJjrtSwijQ44pW15WLdazMeGEHDs",
@@ -2753,9 +2756,7 @@
         "artifactUri": "ipfs://QmUdvY39YJtjWCaAn1DkopRLF36FEc7NSsyZAhZZCP8Jxm",
         "displayUri": "",
         "thumbnailUri": "ipfs://QmNrhZHUaEqxhyLfqoq1mtHSipkWHeT31LNHb1QEbDHgnc",
-        "creators": [
-          "tz1c2e1WMKKtf6oBZcZK3YFxrXgVbb2ggRr9"
-        ],
+        "creators": ["tz1c2e1WMKKtf6oBZcZK3YFxrXgVbb2ggRr9"],
         "formats": [
           {
             "uri": "ipfs://QmUdvY39YJtjWCaAn1DkopRLF36FEc7NSsyZAhZZCP8Jxm",
@@ -2804,9 +2805,7 @@
         "artifactUri": "ipfs://QmajvJdcqJgeF7gZe1buk41zRdebiXb8MFikDsUn3YBK9s",
         "displayUri": "",
         "thumbnailUri": "ipfs://QmNrhZHUaEqxhyLfqoq1mtHSipkWHeT31LNHb1QEbDHgnc",
-        "creators": [
-          "tz1c2e1WMKKtf6oBZcZK3YFxrXgVbb2ggRr9"
-        ],
+        "creators": ["tz1c2e1WMKKtf6oBZcZK3YFxrXgVbb2ggRr9"],
         "formats": [
           {
             "uri": "ipfs://QmajvJdcqJgeF7gZe1buk41zRdebiXb8MFikDsUn3YBK9s",
